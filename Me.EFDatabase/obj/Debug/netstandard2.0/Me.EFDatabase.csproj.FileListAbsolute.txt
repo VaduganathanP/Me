@@ -1,9 +1,0 @@
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\bin\Debug\netstandard2.0\Me.EFDatabase.deps.json
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\bin\Debug\netstandard2.0\Me.EFDatabase.dll
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\obj\Debug\netstandard2.0\Me.EFDatabase.csprojAssemblyReference.cache
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\obj\Debug\netstandard2.0\Me.EFDatabase.AssemblyInfoInputs.cache
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\obj\Debug\netstandard2.0\Me.EFDatabase.AssemblyInfo.cs
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\bin\Debug\netstandard2.0\Me.EFDatabase.pdb
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\obj\Debug\netstandard2.0\Me.EFDatabase.csproj.CoreCompileInputs.cache
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\obj\Debug\netstandard2.0\Me.EFDatabase.dll
-C:\Users\vpillappan\Documents\GitHub\Me\Me.EFDatabase\obj\Debug\netstandard2.0\Me.EFDatabase.pdb
