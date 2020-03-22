@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Me", "Me.csproj", "{DA59A764-CF0B-4275-9A5A-D333EFF2A44A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.Common", "..\..\WPF.Common\WPF.Common.csproj", "{211214CE-8940-40BB-8BE9-5B7DB25F5EA2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Me.Core", "..\..\Me.Core\Me.Core.csproj", "{9B790D17-1E90-4C26-9FEF-E8B9F4A471CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA59A764-CF0B-4275-9A5A-D333EFF2A44A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA59A764-CF0B-4275-9A5A-D333EFF2A44A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA59A764-CF0B-4275-9A5A-D333EFF2A44A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA59A764-CF0B-4275-9A5A-D333EFF2A44A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{211214CE-8940-40BB-8BE9-5B7DB25F5EA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{211214CE-8940-40BB-8BE9-5B7DB25F5EA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{211214CE-8940-40BB-8BE9-5B7DB25F5EA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{211214CE-8940-40BB-8BE9-5B7DB25F5EA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B790D17-1E90-4C26-9FEF-E8B9F4A471CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B790D17-1E90-4C26-9FEF-E8B9F4A471CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B790D17-1E90-4C26-9FEF-E8B9F4A471CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B790D17-1E90-4C26-9FEF-E8B9F4A471CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {553C1DCA-0077-479F-B767-DB85C6DB0DDC}
+	EndGlobalSection
+EndGlobal
